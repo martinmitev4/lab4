@@ -16,7 +16,7 @@ class _CalendarScreenState extends State<CalendarScreen> {
   final DateTime _lastDay = DateTime.utc(2025, 12, 31);
 
   final List<Exam> _exams = [
-    Exam(name: 'Mathematics', latitude: 41.99646, longitude: 21.43141, dateTime: DateTime(2025, 1, 10, 9, 0)),
+    Exam(name: 'Mathematics', latitude: 42.004120, longitude: 21.409543, dateTime: DateTime(2025, 1, 10, 9, 0)),
     Exam(name: 'Physics', latitude: 41.99646, longitude: 21.43141, dateTime: DateTime(2025, 1, 11, 14, 0)),
   ];
 

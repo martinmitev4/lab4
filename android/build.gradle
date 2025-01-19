@@ -1,6 +1,6 @@
 buildscript {
     repositories {
-        google() // Add this block
+        google()
         mavenCentral()
     }
     dependencies {
