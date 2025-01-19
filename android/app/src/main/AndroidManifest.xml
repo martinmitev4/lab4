@@ -9,7 +9,7 @@
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBCRhOrrvtWG2-PKokg5OzNEOOLUB7_7wc"/>
+            android:value="Your API Key"/>
 <!--        For security I don't publish my api key.
             If you want to test the application you need to insert your api key !!!-->
         <activity
